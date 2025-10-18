@@ -1,9 +1,4 @@
-# YouTube Clone
-
-MERN Stack Youtube Clone
-
-[![Video Title](https://img.youtube.com/vi/sFWOxkX1lw0/0.jpg)](https://www.youtube.com/watch?v=sFWOxkX1lw0)
-
+# vTube
 
 ## Features
 - User authentication (signup/login)
